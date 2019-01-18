@@ -1,7 +1,5 @@
 ---
-layout: post
 title: La aviación
-author: Andrés
 background: /img/posts/01/cover.jpg
 permalink: /la-aviacion/
 ---
