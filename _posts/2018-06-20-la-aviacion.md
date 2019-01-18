@@ -19,7 +19,7 @@ Recuerdo ir muchas tardes a un descampado cercano y mirar los aviones sobrevolan
 
 Como reto personal, me dije a mi mismo que no iría a este parque hasta que no supiese como funcionaba ese avión por completo. Iluso de mí. Recuerdo imprimir manuales de principios de vuelo y temática en general sobre como funcionaban los aviones, quería entender todo lo posible dentro de mis posibilidades.
 
-![avión de avianca](/img/posts/01/avianca.jpg)
+![avión de avianca](/img/posts/01/avianca.jpg){: .center }
 
 ### La era virtual
 
@@ -41,7 +41,7 @@ Siempre había defendido ante todos que ser piloto era una profesión única. El
 
 Tengo marcado el recuerdo de un compañero de clase que decía que a el la parecía muy aburrido estar muchas horas en un avión volando de un lado a otro. Mi visión ha cambiado tanto que yo también he optado por esa postura. Hoy defiendo que trabajar en una linea aérea no tiene diferencia a estar en una oficina de 9 a 5. Estás sujeto a unas rutinas y presiones como las de cualquier otro trabajo, por tanto, la magia en algún momento se perderá. Aquello que parece único e increíble, pasará a ser rutinario. Estos pensamientos se han ido metiendo en mi cabeza lentamente a lo largo de los años sumado a otros componentes.
 
-![cabina de avión](/img/posts/01/cabina.jpg)
+![cabina de avión](/img/posts/01/cabina.jpg){: .center }
 
 ### El desencanto
 
@@ -55,7 +55,7 @@ La variable que más defienden los pilotos actuales y el motivo de "nunca nos va
 
 Llegados a este punto se podría pensar que mi desencanto con la aviación es tal que no quiero saber nada de ella y es completamente al revés. Del lado práctico, he vuelto al simulador a mi manera, esto quiere decir que ya no estoy metido al mismo nivel de antaño en donde gastaba horas y horas en vuelos virtuales oceánicos simulando la operación real de una aerolínea.  Me he vuelto fan de la aviación general  y gracias a la realidad virtual esto es aún más increíble de lo que era cuando inicié en 2006. También espero poder completar pronto mi licencia de piloto privado, volar es y siempre será algo único para mí.
 
-![Socata TB9 en LELL](/img/posts/01/IMG_1021.jpg)
+![Socata TB9 en LELL](/img/posts/01/IMG_1021.jpg){: .center }
 
 Diariamente sigo estando lo más al día posible y admiro a grandes personalidades como el fundador de Privilege Style (Chema Álvarez) u otros tantos ejemplos de emprendedores que han logrado hacer de este mundo su negocio, algo a lo que aspiro algún día. Aunque he de decir que, por desgracia, hoy por hoy es uno de los negocios mas complejos y desagradecidos por sus cortos márgenes de beneficios debido a los costes de operación. Imagino que en un futuro cuando se haya apostado por las energías limpias y sistemas autónomos estos márgenes puedan ser mayores aunque quizás por aquel entonces ya estemos volando a Marte.
 
